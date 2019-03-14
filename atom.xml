@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>NINA</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-03-14T17:06:16.017Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Miss-Nina</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>place</title>
+    <link href="http://yoursite.com/2019/03/15/place/"/>
+    <id>http://yoursite.com/2019/03/15/place/</id>
+    <published>2019-03-14T15:01:00.000Z</published>
+    <updated>2019-03-14T17:06:16.017Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/images/place/1.jpg" alt><br><img src="/images/place/2.jpg" alt></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;/images/place/1.jpg&quot; alt&gt;&lt;br&gt;&lt;img src=&quot;/images/place/2.jpg&quot; alt&gt;&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>event</title>
+    <link href="http://yoursite.com/2019/03/14/event/"/>
+    <id>http://yoursite.com/2019/03/14/event/</id>
+    <published>2019-03-14T12:52:00.000Z</published>
+    <updated>2019-03-14T17:06:52.769Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/images/event/2.jpg" alt><br><img src="/images/event/3.jpg" alt><br><img src="/images/evnet/4.jpg" alt><br><img src="/images/event/5.jpg" alt><br><img src="/images/event/6.jpg" alt></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;/images/event/2.jpg&quot; alt&gt;&lt;br&gt;&lt;img src=&quot;/images/event/3.jpg&quot; alt&gt;&lt;br&gt;&lt;img src=&quot;/images/evnet/4.jpg&quot; alt&gt;&lt;br&gt;&lt;img src=&quot;/images/ev
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>person</title>
+    <link href="http://yoursite.com/2019/03/12/person/"/>
+    <id>http://yoursite.com/2019/03/12/person/</id>
+    <published>2019-03-12T12:52:00.000Z</published>
+    <updated>2019-03-14T17:01:57.691Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/images/person/1.jpg" alt="upload successful"><br><img src="/images/person/2.jpg" alt="upload successful"><br><img src="/images/person/3.jpg" alt="upload successful"><br><img src="/images/person/4.jpg" alt="upload successful">:</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;/images/person/1.jpg&quot; alt=&quot;upload successful&quot;&gt;&lt;br&gt;&lt;img src=&quot;/images/person/2.jpg&quot; alt=&quot;upload successful&quot;&gt;&lt;br&gt;&lt;img src=&quot;/images
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>baby</title>
+    <link href="http://yoursite.com/2019/03/12/baby/"/>
+    <id>http://yoursite.com/2019/03/12/baby/</id>
+    <published>2019-03-12T12:52:00.000Z</published>
+    <updated>2019-03-14T17:08:00.684Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/images/baby/01.jpg" alt><br><img src="/images/baby/02.jpg" alt><br><img src="/images/baby/03.jpg" alt><br><img src="/images/baby/04.jpg" alt><br><img src="/images/baby/05.jpg" alt><br><img src="/images/baby/06.jpg" alt><br><img src="/images/baby/07.jpg" alt><br><img src="/images/baby/08.jpg" alt><br><img src="/images/baby/09.jpg" alt><br><img src="/images/baby/10.jpg" alt><br><img src="/images/baby/11.jpg" alt><br><img src="/images/baby/12.jpg" alt><br><img src="/images/baby/13.jpg" alt><br><img src="/images/baby/14.jpg" alt><br><img src="/images/baby/15.jpg" alt><br><img src="/images/baby/16.jpg" alt><br><img src="/images/baby/17.jpg" alt><br><img src="/images/baby/18.jpg" alt><br><img src="/images/baby/19.jpg" alt><br><img src="/images/baby/20.jpg" alt><br><img src="/images/baby/21.jpg" alt></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;/images/baby/01.jpg&quot; alt&gt;&lt;br&gt;&lt;img src=&quot;/images/baby/02.jpg&quot; alt&gt;&lt;br&gt;&lt;img src=&quot;/images/baby/03.jpg&quot; alt&gt;&lt;br&gt;&lt;img src=&quot;/images/ba
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
