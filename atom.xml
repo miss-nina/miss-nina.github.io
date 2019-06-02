@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-06-02T12:43:42.484Z</updated>
+  <updated>2019-06-02T13:16:49.738Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -18,18 +18,18 @@
   
   <entry>
     <title>BABY</title>
-    <link href="http://yoursite.com/2019/03/15/BABY/"/>
-    <id>http://yoursite.com/2019/03/15/BABY/</id>
+    <link href="http://yoursite.com/2019/03/15/baby/"/>
+    <id>http://yoursite.com/2019/03/15/baby/</id>
     <published>2019-03-15T12:52:00.000Z</published>
-    <updated>2019-06-02T12:43:42.484Z</updated>
+    <updated>2019-06-02T13:16:49.738Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="/images/BABY/01.jpg" alt><br><img src="/images/BABY/02.jpg" alt><br><img src="/images/BABY/03.jpg" alt><br><img src="/images/BABY/04.jpg" alt><br><img src="/images/BABY/05.jpg" alt><br><img src="/images/BABY/06.jpg" alt><br><img src="/images/BABY/07.jpg" alt><br><img src="/images/BABY/08.jpg" alt><br><img src="/images/BABY/09.jpg" alt><br><img src="/images/BABY/10.jpg" alt><br><img src="/images/BABY/11.jpg" alt><br><img src="/images/BABY/12.jpg" alt><br><img src="/images/BABY/13.jpg" alt><br><img src="/images/BABY/14.jpg" alt><br><img src="/images/BABY/15.jpg" alt><br><img src="/images/BABY/16.jpg" alt><br><img src="/images/BABY/17.jpg" alt><br><img src="/images/BABY/18.jpg" alt><br><img src="/images/BABY/19.jpg" alt><br><img src="/images/BABY/20.jpg" alt><br><img src="/images/BABY/21.jpg" alt></p>]]></content>
+    <content type="html"><![CDATA[<p><img src="/images/baby/01.jpg" alt><br><img src="/images/baby/02.jpg" alt><br><img src="/images/BABY/03.jpg" alt><br><img src="/images/BABY/04.jpg" alt><br><img src="/images/BABY/05.jpg" alt><br><img src="/images/BABY/06.jpg" alt><br><img src="/images/BABY/07.jpg" alt><br><img src="/images/BABY/08.jpg" alt><br><img src="/images/BABY/09.jpg" alt><br><img src="/images/BABY/10.jpg" alt><br><img src="/images/BABY/11.jpg" alt><br><img src="/images/BABY/12.jpg" alt><br><img src="/images/BABY/13.jpg" alt><br><img src="/images/BABY/14.jpg" alt><br><img src="/images/BABY/15.jpg" alt><br><img src="/images/BABY/16.jpg" alt><br><img src="/images/BABY/17.jpg" alt><br><img src="/images/BABY/18.jpg" alt><br><img src="/images/BABY/19.jpg" alt><br><img src="/images/BABY/20.jpg" alt><br><img src="/images/BABY/21.jpg" alt></p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;&lt;img src=&quot;/images/BABY/01.jpg&quot; alt&gt;&lt;br&gt;&lt;img src=&quot;/images/BABY/02.jpg&quot; alt&gt;&lt;br&gt;&lt;img src=&quot;/images/BABY/03.jpg&quot; alt&gt;&lt;br&gt;&lt;img src=&quot;/images/BA
+        &lt;p&gt;&lt;img src=&quot;/images/baby/01.jpg&quot; alt&gt;&lt;br&gt;&lt;img src=&quot;/images/baby/02.jpg&quot; alt&gt;&lt;br&gt;&lt;img src=&quot;/images/BABY/03.jpg&quot; alt&gt;&lt;br&gt;&lt;img src=&quot;/images/BA
       
     
     </summary>
@@ -62,18 +62,18 @@
   
   <entry>
     <title>PERSON</title>
-    <link href="http://yoursite.com/2019/03/13/PERSON/"/>
-    <id>http://yoursite.com/2019/03/13/PERSON/</id>
+    <link href="http://yoursite.com/2019/03/13/person/"/>
+    <id>http://yoursite.com/2019/03/13/person/</id>
     <published>2019-03-13T12:52:00.000Z</published>
-    <updated>2019-05-31T12:26:06.993Z</updated>
+    <updated>2019-06-02T13:16:27.317Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="/images/PERSON/1.jpg" alt="upload successful"><br><img src="/images/PERSON/2.jpg" alt="upload successful"><br><img src="/images/PERSON/3.jpg" alt="upload successful"><br><img src="/images/PERSON/4.jpg" alt="upload successful">:</p>]]></content>
+    <content type="html"><![CDATA[<p><img src="/images/person/1.jpg" alt="upload successful"><br><img src="/images/person/2.jpg" alt="upload successful"><br><img src="/images/person/3.jpg" alt="upload successful"><br><img src="/images/person/4.jpg" alt="upload successful">:</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;&lt;img src=&quot;/images/PERSON/1.jpg&quot; alt=&quot;upload successful&quot;&gt;&lt;br&gt;&lt;img src=&quot;/images/PERSON/2.jpg&quot; alt=&quot;upload successful&quot;&gt;&lt;br&gt;&lt;img src=&quot;/images
+        &lt;p&gt;&lt;img src=&quot;/images/person/1.jpg&quot; alt=&quot;upload successful&quot;&gt;&lt;br&gt;&lt;img src=&quot;/images/person/2.jpg&quot; alt=&quot;upload successful&quot;&gt;&lt;br&gt;&lt;img src=&quot;/images
       
     
     </summary>
