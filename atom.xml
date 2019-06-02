@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-06-02T13:26:06.447Z</updated>
+  <updated>2019-06-02T13:29:37.747Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -18,18 +18,18 @@
   
   <entry>
     <title>FOOD</title>
-    <link href="http://yoursite.com/2019/06/02/person%20%E1%84%87%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A1%E1%84%87%E1%85%A9%E1%86%AB/"/>
-    <id>http://yoursite.com/2019/06/02/person 복사본/</id>
+    <link href="http://yoursite.com/2019/06/02/food1/"/>
+    <id>http://yoursite.com/2019/06/02/food1/</id>
     <published>2019-06-02T12:52:00.000Z</published>
-    <updated>2019-06-02T13:26:06.447Z</updated>
+    <updated>2019-06-02T13:29:37.747Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="/images/food/food1.jpg" alt="upload successful"><br><img src="/images/food/food2.jpg" alt="upload successful"></p>]]></content>
+    <content type="html"><![CDATA[<p><img src="/images/food1/food1.jpg" alt="upload successful"><br><img src="/images/food1/food2.jpg" alt="upload successful"></p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;&lt;img src=&quot;/images/food/food1.jpg&quot; alt=&quot;upload successful&quot;&gt;&lt;br&gt;&lt;img src=&quot;/images/food/food2.jpg&quot; alt=&quot;upload successful&quot;&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&quot;/images/food1/food1.jpg&quot; alt=&quot;upload successful&quot;&gt;&lt;br&gt;&lt;img src=&quot;/images/food1/food2.jpg&quot; alt=&quot;upload successful&quot;&gt;&lt;/p&gt;
 
       
     
