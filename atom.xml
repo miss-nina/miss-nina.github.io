@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-06-02T13:16:49.738Z</updated>
+  <updated>2019-06-02T13:26:06.447Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,19 +17,41 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>BABY</title>
-    <link href="http://yoursite.com/2019/03/15/baby/"/>
-    <id>http://yoursite.com/2019/03/15/baby/</id>
-    <published>2019-03-15T12:52:00.000Z</published>
-    <updated>2019-06-02T13:16:49.738Z</updated>
+    <title>FOOD</title>
+    <link href="http://yoursite.com/2019/06/02/person%20%E1%84%87%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A1%E1%84%87%E1%85%A9%E1%86%AB/"/>
+    <id>http://yoursite.com/2019/06/02/person 복사본/</id>
+    <published>2019-06-02T12:52:00.000Z</published>
+    <updated>2019-06-02T13:26:06.447Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="/images/baby/01.jpg" alt><br><img src="/images/baby/02.jpg" alt><br><img src="/images/BABY/03.jpg" alt><br><img src="/images/BABY/04.jpg" alt><br><img src="/images/BABY/05.jpg" alt><br><img src="/images/BABY/06.jpg" alt><br><img src="/images/BABY/07.jpg" alt><br><img src="/images/BABY/08.jpg" alt><br><img src="/images/BABY/09.jpg" alt><br><img src="/images/BABY/10.jpg" alt><br><img src="/images/BABY/11.jpg" alt><br><img src="/images/BABY/12.jpg" alt><br><img src="/images/BABY/13.jpg" alt><br><img src="/images/BABY/14.jpg" alt><br><img src="/images/BABY/15.jpg" alt><br><img src="/images/BABY/16.jpg" alt><br><img src="/images/BABY/17.jpg" alt><br><img src="/images/BABY/18.jpg" alt><br><img src="/images/BABY/19.jpg" alt><br><img src="/images/BABY/20.jpg" alt><br><img src="/images/BABY/21.jpg" alt></p>]]></content>
+    <content type="html"><![CDATA[<p><img src="/images/food/food1.jpg" alt="upload successful"><br><img src="/images/food/food2.jpg" alt="upload successful"></p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;&lt;img src=&quot;/images/baby/01.jpg&quot; alt&gt;&lt;br&gt;&lt;img src=&quot;/images/baby/02.jpg&quot; alt&gt;&lt;br&gt;&lt;img src=&quot;/images/BABY/03.jpg&quot; alt&gt;&lt;br&gt;&lt;img src=&quot;/images/BA
+        &lt;p&gt;&lt;img src=&quot;/images/food/food1.jpg&quot; alt=&quot;upload successful&quot;&gt;&lt;br&gt;&lt;img src=&quot;/images/food/food2.jpg&quot; alt=&quot;upload successful&quot;&gt;&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>BABY</title>
+    <link href="http://yoursite.com/2019/03/15/baby/"/>
+    <id>http://yoursite.com/2019/03/15/baby/</id>
+    <published>2019-03-15T12:52:00.000Z</published>
+    <updated>2019-06-02T13:22:03.553Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/images/baby/01.jpg" alt><br><img src="/images/baby/02.jpg" alt><br><img src="/images/baby/03.jpg" alt><br><img src="/images/baby/04.jpg" alt><br><img src="/images/baby/05.jpg" alt><br><img src="/images/baby/06.jpg" alt><br><img src="/images/baby/07.jpg" alt><br><img src="/images/baby/08.jpg" alt><br><img src="/images/baby/09.jpg" alt><br><img src="/images/baby/10.jpg" alt><br><img src="/images/baby/11.jpg" alt><br><img src="/images/baby/12.jpg" alt><br><img src="/images/baby/13.jpg" alt><br><img src="/images/baby/14.jpg" alt><br><img src="/images/baby/15.jpg" alt><br><img src="/images/baby/16.jpg" alt><br><img src="/images/baby/17.jpg" alt><br><img src="/images/baby/18.jpg" alt><br><img src="/images/baby/19.jpg" alt><br><img src="/images/baby/20.jpg" alt><br><img src="/images/baby/21.jpg" alt></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;/images/baby/01.jpg&quot; alt&gt;&lt;br&gt;&lt;img src=&quot;/images/baby/02.jpg&quot; alt&gt;&lt;br&gt;&lt;img src=&quot;/images/baby/03.jpg&quot; alt&gt;&lt;br&gt;&lt;img src=&quot;/images/ba
       
     
     </summary>
@@ -39,8 +61,8 @@
   
   <entry>
     <title>VIDEO</title>
-    <link href="http://yoursite.com/2019/03/14/VIDEO/"/>
-    <id>http://yoursite.com/2019/03/14/VIDEO/</id>
+    <link href="http://yoursite.com/2019/03/14/video/"/>
+    <id>http://yoursite.com/2019/03/14/video/</id>
     <published>2019-03-13T15:01:00.000Z</published>
     <updated>2019-03-19T15:19:48.051Z</updated>
     
@@ -83,18 +105,18 @@
   
   <entry>
     <title>PLACE</title>
-    <link href="http://yoursite.com/2019/03/12/PLACE/"/>
-    <id>http://yoursite.com/2019/03/12/PLACE/</id>
+    <link href="http://yoursite.com/2019/03/12/place/"/>
+    <id>http://yoursite.com/2019/03/12/place/</id>
     <published>2019-03-11T15:01:00.000Z</published>
-    <updated>2019-05-31T12:26:48.630Z</updated>
+    <updated>2019-06-02T13:22:55.601Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="/images/PLACE/1.jpg" alt><br><img src="/images/PLACE/2.jpg" alt></p>]]></content>
+    <content type="html"><![CDATA[<p><img src="/images/place/1.jpg" alt><br><img src="/images/place/2.jpg" alt></p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;&lt;img src=&quot;/images/PLACE/1.jpg&quot; alt&gt;&lt;br&gt;&lt;img src=&quot;/images/PLACE/2.jpg&quot; alt&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&quot;/images/place/1.jpg&quot; alt&gt;&lt;br&gt;&lt;img src=&quot;/images/place/2.jpg&quot; alt&gt;&lt;/p&gt;
 
       
     
@@ -105,18 +127,18 @@
   
   <entry>
     <title>EVENT</title>
-    <link href="http://yoursite.com/2019/03/11/EVENT/"/>
-    <id>http://yoursite.com/2019/03/11/EVENT/</id>
+    <link href="http://yoursite.com/2019/03/11/event/"/>
+    <id>http://yoursite.com/2019/03/11/event/</id>
     <published>2019-03-11T12:52:00.000Z</published>
-    <updated>2019-05-31T12:25:03.127Z</updated>
+    <updated>2019-06-02T13:22:32.635Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="/images/EVENT/2.jpg" alt><br><img src="/images/EVENT/3.jpg" alt><br><img src="/images/EVENT/4.jpg" alt><br><img src="/images/EVENT/5.jpg" alt><br><img src="/images/EVENT/6.jpg" alt></p>]]></content>
+    <content type="html"><![CDATA[<p><img src="/images/event/2.jpg" alt><br><img src="/images/event/3.jpg" alt><br><img src="/images/event/4.jpg" alt><br><img src="/images/event/5.jpg" alt><br><img src="/images/event/6.jpg" alt></p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;&lt;img src=&quot;/images/EVENT/2.jpg&quot; alt&gt;&lt;br&gt;&lt;img src=&quot;/images/EVENT/3.jpg&quot; alt&gt;&lt;br&gt;&lt;img src=&quot;/images/EVENT/4.jpg&quot; alt&gt;&lt;br&gt;&lt;img src=&quot;/images/EV
+        &lt;p&gt;&lt;img src=&quot;/images/event/2.jpg&quot; alt&gt;&lt;br&gt;&lt;img src=&quot;/images/event/3.jpg&quot; alt&gt;&lt;br&gt;&lt;img src=&quot;/images/event/4.jpg&quot; alt&gt;&lt;br&gt;&lt;img src=&quot;/images/ev
       
     
     </summary>
