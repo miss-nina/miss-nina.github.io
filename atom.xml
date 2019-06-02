@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-05-31T12:37:07.468Z</updated>
+  <updated>2019-06-02T12:43:42.484Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,28 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>FOOD</title>
-    <link href="http://yoursite.com/2019/05/30/FOOD/"/>
-    <id>http://yoursite.com/2019/05/30/FOOD/</id>
-    <published>2019-05-30T12:52:00.000Z</published>
-    <updated>2019-05-31T12:37:07.468Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="/images/FOOD/food1.jpg" alt><br><img src="/images/FOOD/food2.jpg" alt></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;&lt;img src=&quot;/images/FOOD/food1.jpg&quot; alt&gt;&lt;br&gt;&lt;img src=&quot;/images/FOOD/food2.jpg&quot; alt&gt;&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-  </entry>
   
   <entry>
     <title>BABY</title>
