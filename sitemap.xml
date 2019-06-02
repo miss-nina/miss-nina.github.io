@@ -2,37 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/2019/03/14/video/</loc>
+    <loc>http://yoursite.com/2019/05/30/FOOD/</loc>
     
-    <lastmod>2019-03-19T15:14:25.032Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2019/03/15/baby/</loc>
-    
-    <lastmod>2019-03-19T14:40:37.766Z</lastmod>
+    <lastmod>2019-05-31T12:37:07.468Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2019/03/11/event/</loc>
+    <loc>http://yoursite.com/2019/03/15/BABY/</loc>
     
-    <lastmod>2019-03-19T14:40:23.059Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2019/03/12/place/</loc>
-    
-    <lastmod>2019-03-19T14:40:10.155Z</lastmod>
+    <lastmod>2019-05-31T12:29:10.003Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2019/03/13/person/</loc>
+    <loc>http://yoursite.com/2019/03/12/PLACE/</loc>
     
-    <lastmod>2019-03-19T14:39:40.688Z</lastmod>
+    <lastmod>2019-05-31T12:26:48.630Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2019/03/13/PERSON/</loc>
+    
+    <lastmod>2019-05-31T12:26:06.993Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2019/03/11/EVENT/</loc>
+    
+    <lastmod>2019-05-31T12:25:03.127Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2019/03/14/VIDEO/</loc>
+    
+    <lastmod>2019-03-19T15:19:48.051Z</lastmod>
     
   </url>
   
